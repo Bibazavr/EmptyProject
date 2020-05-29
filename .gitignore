@@ -1,0 +1,16 @@
+# build npm
+node_modules
+
+# build phonegap
+plugins
+platforms
+
+# build ts
+dist
+
+# build webpack
+www/webpack
+www/index.html
+
+# apk
+output.apk
